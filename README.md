@@ -56,20 +56,6 @@ You can boot the generated ISO on:
 
 ---
 
-## 📁 Project Structure
-
-```
-000OS/
- ├── linux-torvalds/        # Linux kernel source
- ├── busybox/               # BusyBox source
- ├── initramfs/             # Root filesystem and init script
- ├── initramfs.cpio.gz      # Packed initramfs
- ├── 000os.iso              # Bootable ISO image
- ├── build-000os.sh         # Build automation script
- └── README.md              # Project description
-```
-
----
 
 ## 🧑‍💻 Credits
 
